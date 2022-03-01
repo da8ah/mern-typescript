@@ -1,0 +1,6 @@
+[submodule "expressjs-backend-app"]
+	path = expressjs-backend-app
+	url = https://github.com/da8ah/expressjs-backend-app.git
+[submodule "reactjs-frontend-app"]
+	path = reactjs-frontend-app
+	url = https://github.com/da8ah/reactjs-frontend-app.git
